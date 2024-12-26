@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "sender": "Walter White",
+    "content": "Hey Jesse, how are you?",
+    "timestamp": "2024-10-21T12:00:00"
+  },
+  {
+    "id": "2",
+    "sender": "Jesse Pinkman",
+    "content": "I am good, Mr White. How about you?",
+    "timestamp": "2024-10-21T12:01:00"
+  },
+  {
+    "id": "3",
+    "sender": "Walter White",
+    "content": "I am doing well, thanks!",
+    "timestamp": "2024-10-21T12:02:00"
+  },
+  {
+    "id": "4",
+    "sender": "Hank",
+    "content": "Hey guys, what are you talking about?",
+    "timestamp": "2024-10-21T12:03:00"
+  },
+  {
+    "id": "5",
+    "sender": "Jesse Pinkman",
+    "content": "Just catching up, Hank. How have you been?",
+    "timestamp": "2024-10-21T12:04:00"
+  },
+  {
+    "id": "6",
+    "sender": "Hank",
+    "content": "I have been great, thanks for asking!",
+    "timestamp": "2024-10-21T12:05:00"
+  }
+]
